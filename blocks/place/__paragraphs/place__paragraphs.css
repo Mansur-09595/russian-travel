@@ -1,4 +1,4 @@
-.place__paragraph {
+.place__paragraphs {
   margin: 0;
   padding: 0;
   font-style: normal;
@@ -8,7 +8,7 @@
 }
 
 @media (max-width: 1023px) {
-  .place__paragraph {
+  .place__paragraphs {
     font-size: 16px;
   }
 }

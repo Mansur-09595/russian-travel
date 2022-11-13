@@ -7,9 +7,5 @@
   font-weight: 400;
   line-height: 1;
   letter-spacing: 2px;
-}
-
-.place__url-heading[title] {
-  border-bottom: none;
-  text-decoration: none;
+  text-transform: uppercase;
 }
