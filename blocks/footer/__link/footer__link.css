@@ -1,0 +1,15 @@
+.footer__link {
+  color: inherit;
+  line-height: 1.125;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+@media (max-width: 767px) {
+  .footer__link {
+    font-size: 24px;
+    line-height: 1;
+  }
+}

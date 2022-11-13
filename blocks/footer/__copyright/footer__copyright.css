@@ -1,0 +1,20 @@
+﻿.footer__copyright {
+  margin: 0;
+  padding: 0;
+  line-height: 1.14;
+  align-self: end;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.footer__copyright::before {
+  content: "\a9\a0"; /* &copy;&nbsp; */
+}
+
+@media (max-width: 767px) {
+  .footer__copyright {
+    line-height: 1;
+    align-self: start;
+  }
+}
