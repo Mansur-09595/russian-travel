@@ -22,3 +22,8 @@
 * Grid Layout
 * Figma
 * Медиазапросы
+
+
+**GitHub Pages**
+
+Посмотреть сайт онлайн, перейти на страницу https://mansur-09595.github.io/russian-travel/
