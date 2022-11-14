@@ -30,9 +30,9 @@
   opacity: 0.8;
 }
 
-@media (max-width: 767px) {
+@media (min-width: 1280px) {
   .cover__link {
-    min-height: 200px !important;
+    min-height: 740px;
   }
 }
 
@@ -42,8 +42,8 @@
   }
 }
 
-@media (min-width: 1280px) {
+@media (max-width: 767px) {
   .cover__link {
-    min-height: 740px;
+    min-height: 200px;
   }
 }

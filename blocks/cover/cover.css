@@ -5,9 +5,9 @@
   text-align: center;
 }
 
-@media (max-width: 767px) {
+@media (min-width: 1280px) {
   .cover {
-    padding: 66px 0 0;
+    padding: 92px 48px 0;
   }
 }
 
@@ -17,8 +17,8 @@
   }
 }
 
-@media (min-width: 1280px) {
+@media (max-width: 767px) {
   .cover {
-    padding: 92px 48px 0;
+    padding: 66px 0 0;
   }
 }

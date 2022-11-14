@@ -4,9 +4,9 @@
   max-width: 690px;
 }
 
-@media (max-width: 320px) {
+@media (min-width: 1280px) {
   .intro {
-    padding: 64px 16px 0  !important;
+    padding: 92px 0 0 148px;
   }
 }
 
@@ -17,8 +17,9 @@
   }
 }
 
-@media (min-width: 1280px) {
+@media (max-width: 320px) {
   .intro {
-    padding: 92px 0 0 148px;
+    padding: 64px 16px 0;
   }
 }
+
